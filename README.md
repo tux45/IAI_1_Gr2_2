@@ -1,1 +1,26 @@
-# IAI_1_2_Gr2
+# Informatyka Aplikacji Internetu - Kolokwium I - poprawa
+
+W projekcie znajduje się 3 pliki: 
+- index.html
+- script.js
+- style.css
+
+## Zadanie 1
+
+Zadanie polega na dołączeniu pliku JavaScript w odpowiednim miejscu w pliku index.html.
+Następnie za pomocą języka Javascript należy pobrać potrzebne elementy ze strony i wykonać odpowiednie akcję:
+(cały kod Javascript ma być zawarty w pliku script.js):
+- po kliknięciu w przycisk "Pokaż element", nad przyciskiem powinien pojawić się czerwony kwardat (element box w pliku index.html).
+
+## Zadanie 2
+
+Do projektu należy dodać dwa pliki:
+- logo.js
+
+
+Do zrobienia:
+- plik logo.js powinien mieć zdefiniowany w zmiennej znacznik html - `<img src="" alt=""/>`
+- src powinno wskazywać na dolną grafikę wcześniej pobraną i umieszczoną w katalogu projektu,
+- plik `index.html` powinny mieć tuż po otwarciu znacznika body umieszczony znacznik `<div class="logo"></div>`. 
+Ten pusty znacznik będzie odpowiedzialny za wyświetlenie logo z pliku logo.js.
+- po dołączeniu pliku logo.js do pliku html należy umieścić w nim odpowiedni kod, który pobierze znacznik div i umieści w nim zdefiniowaną w zmiennej logo.
