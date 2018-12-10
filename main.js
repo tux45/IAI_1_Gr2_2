@@ -1,0 +1,1 @@
+<a href="https://google.com></a>""><img src="obrazek.jpg" alt="cos tam"/></a>
