@@ -15,12 +15,11 @@ Następnie za pomocą języka Javascript należy pobrać potrzebne elementy ze s
 ## Zadanie 2
 
 Do projektu należy dodać dwa pliki:
-- logo.js
-
+- main.js
 
 Do zrobienia:
-- plik logo.js powinien mieć zdefiniowany w zmiennej znacznik html - `<img src="" alt=""/>`
+- plik main.js powinien mieć zdefiniowany w zmiennej znacznik html - `<img src="" alt=""/>`
 - src powinno wskazywać na dolną grafikę wcześniej pobraną i umieszczoną w katalogu projektu,
-- plik `index.html` powinny mieć tuż po otwarciu znacznika body umieszczony znacznik `<div class="logo"></div>`. 
-Ten pusty znacznik będzie odpowiedzialny za wyświetlenie logo z pliku logo.js.
-- po dołączeniu pliku logo.js do pliku html należy umieścić w nim odpowiedni kod, który pobierze znacznik div i umieści w nim zdefiniowaną w zmiennej logo.
+- plik `index.html` powinny mieć tuż po otwarciu znacznika body umieszczony znacznik `<div class="main"></div>`. 
+Ten pusty znacznik będzie odpowiedzialny za wyświetlenie grafiki z pliku main.js.
+- po dołączeniu pliku main.js do pliku html należy umieścić w nim odpowiedni kod, który pobierze znacznik div i umieści w nim zdefiniowaną w zmiennej main.
