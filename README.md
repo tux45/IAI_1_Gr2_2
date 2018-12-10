@@ -16,7 +16,7 @@ Następnie za pomocą języka Javascript należy pobrać potrzebne elementy ze s
 
 Do projektu należy dodać dwa pliki:
 - main.js,
-- plik ze zdjeciem
+- plik ze zdjęciem
 
 Do zrobienia:
 - plik main.js powinien mieć zdefiniowany w zmiennej znacznik html - `<img src="" alt=""/>`
